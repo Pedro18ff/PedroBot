@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> **Este proyecto está en constante evolución. Estamos comprometidos en ofrecer a nuestra comunidad un Bot increíble. Te invitamos a instalarlo y para estar al tanto de todas las novedades. [¡Únete a nuestro nuevo canal!](https://whatsapp.com/channel/0029VatPwXw7Noa8n1Vinx3g)**
+> **Este proyecto está en constante evolución. Estamos comprometidos en ofrecer a nuestra comunidad un Bot increíble. Te invitamos a instalarlo y para estar al tanto de todas las novedades. [¡Únete a nuestro nuevo canal!](https://chat.whatsapp.com/Jbi0UN57afA7rN8RyvqwDX?mode=ac_c)**
 
 <p align="center"> 
 <img src="https://files.catbox.moe/ixhyq3.png" alt="GataBot-MD" style="width: 75%; height: auto; max-width: 100px;">
